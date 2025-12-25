@@ -7,7 +7,6 @@
   line-height: 20px;
 }
 
-/* Header */
 .header {
   display: flex;
   flex-direction: column;
@@ -310,11 +309,10 @@
   padding: 0;
   margin: 100px auto 0;
   display: flex;
-  justify-content:  space-between;;
+  justify-content: space-between;
   gap: 40px;
-  max-width: 1000px; auto 0;
+  max-width: 1000px;
   align-items: flex-start;
-  
 }
 
 .step {
@@ -382,9 +380,10 @@
   margin-bottom: 16px;
 }
 
-footer__column-content_social .footer__list-item {
+.footer__column_content_social .footer__list-item {
   margin-bottom: 10px;
-  }
+}
+
 
 .footer__column-link {
   color: #ffffff;
